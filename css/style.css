@@ -51,7 +51,41 @@ h1{
 	margin-top: 3%;
 	font-weight: bolder;  
 	color: wheat;
-  font-size: 22px;
+  font-size: 58px;
   text-align: center;
+	border: solid 5px whitesmoke;
+	margin:5%;
+	border-radius: 20px;
+	padding: .8% 2%;
+	box-shadow: 2px 6px 8px yellowgreen;
 	
+}
+
+
+.menu{
+	min-width: 90%;
+	margin: 5%;
+	color: lawngreen;
+	text-align: center;
+	/* border: wheat 1px solid; */
+
+}
+
+.menu th{
+	padding: .8% 2%;
+	color: whitesmoke;
+	text-align: center;
+	font-weight: bolder;
+	background-color: darkolivegreen;
+	border-radius: 30px;
+	text-shadow: 1px 3px darkblue;
+	box-shadow: 1px 3px 12px lightgreen;
+}
+
+.menu td{
+
+	padding: 1.2%;
+	color: lawngreen;
+	text-align: center;
+	border-bottom: wheat 1px solid;
 }
